@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sets>
+	<set>
+		<tl>
+			<i r="0" s="1" c="1"/>
+			<i r="1" s="2"/>
+			<i r="2" s="3"/>
+		</tl>
+		<tr>
+			<i r="0" a="1" s="4"/>
+			<i r="1" a="1"><e k="1" i="00100020"/></i>
+			<i r="2" s="5"/>
+			<i r="3"><e k="1" i="00080080"/></i>
+			<i r="4"><e k="1" i="00200010"/></i>
+			<i r="5"><e k="1" i="00081030"/></i>
+			<i r="6"><e k="1" i="0008103E"/></i>
+			<i r="7"><e k="1" i="00204000"/></i>
+			<i r="8"><e k="1" i="00324000"/></i>
+			<i r="9" s="6" c="1"/>
+		</tr>
+		<bl>
+			<i r="0" s="A"/>
+			<i r="1" s="D" c="1"/>
+			<i r="2" s="C" c="1"/>
+		</bl>
+		<br>
+			<i r="0" s="9"/>
+		</br>
+	</set>
+
+	<set c="1">
+		<tl>
+			<i r="0" s="e" c="1"/>
+		</tl>
+	</set>
+
+	<set m="MR" e="1">
+		<br>
+			<i r="1" s="7"/>
+			<i r="2" s="8"/>
+		</br>
+	</set>
+
+	<set m="CT" e="1">
+		<br>
+			<i r="1" s="F"/>
+		</br>
+	</set>
+
+	<set m="MG" e="1">
+		<tl>
+			<i r="3"><e k="1" i="00200062"/></i>
+			<i r="4"><e k="1" i="00185101"/></i>
+		</tl>
+	</set>
+	
+</sets>
+
+<!--
+
+<set>		a collection of annotations grouped in four corners of the image panel
+
+<set> attributes:
+"m"		modality (a set is considered as default if the "m" attribute is missing)
+"c"		c="0" - set defined for static images, c="1" - set defined for CINE mode
+"e"		e="0" - set overwrites default set, e="1" - set extends default set
+
+<tl>		top left corner
+<tr>		top right corner
+<bl>		bottom left corner
+<br>		bottom right corner
+
+<i>		single row - can be one of the predefined annotations or a collection of elements (texts and DICOM tag values)
+
+<i> attributes:
+"r"		row index (0 ... n), starting from the panel border (0 - a row closest to the border)
+"a"		1 - the row is hidden when anonimization is enabled
+"c"		font color: 0 - yellow, 1 - red
+"d"		1 - the row is hidden when the included DICOM element(s) is missing
+
+"s"		if present, one of the predefined annotations is used:
+
+01		Current image number and total number of images in the viewport (e.g. "3/237")
+02		Current series number (e.g. "Se: 4")
+03		Lossy image compression info (e.g. "Lossy compression (JPEG 2000)")
+04		Patient name (without ^^^)
+05		Patient birthday and sex (e.g. "1952-02-09 M")
+06		Rotation/flip info (e.g. "R: 90° CCW F: H")
+07		MRI TE and TR times (e.g. "TR: 540.0 TE: 14.0")
+08		MRI strength of field (e.g. "FS: 1.5")
+09		Image acquisition date and time (or study date and time if acquisition timestamp is not available) (e.g. "2009-12-03 19:23:12")
+0A		Thickness and location of the image (e.g. "T: 5.0mm L: -68.7mm")
+0B		Positioner angles (e.g. "LAO: 9 CRA: 27")
+0C		Mouse cursor position (in DICOM image coordinates) and value of the DICOM pixel under cursor (e.g. "X: 139 Y: 281 Val: 105")
+0D		Window width and level info, window preset, negative mode (e.g. "WL: 40 WW: 80 [CT Brain]")
+0E		Current real FPS (frames per second) value during CINE run (e.g. "15 fps")
+0F		X-ray tube current in mA and peak kilovoltage output of the x-ray generator(e.g. "330mA 120kV")
+10		3D cursor position in milimeters (e.g. "X: 28.94mm Y: -6.12mm Z: -487.03")
+
+
+<e>		single element (a text or a DICOM tag value)
+<e> attributes:
+"k"		1 - DICOM tag value, 2 - text element
+"i"		DICOM tag ID (group and element hex values), valid only if k="1"
+"t"		a text, valid only if k="2"
+
+an example of a row consisiting of the text element and the DICOM tag value:
+<i r="3" d="1"><e k="2" t="Body part examined: "/><e k="1" i="00180015"/></i>
+
+-->

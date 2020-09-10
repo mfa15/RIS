@@ -1,0 +1,9 @@
+[AutoRun.Amd64]
+LABEL=RadiAnt DICOM Viewer 64-bit
+ICON=RA64\viewer64.exe,0
+OPEN=RA64\viewer64.exe
+
+[AutoRun]
+LABEL=RadiAnt DICOM Viewer 32-bit
+ICON=RA32\viewer32.exe,0
+OPEN=RA32\viewer32.exe

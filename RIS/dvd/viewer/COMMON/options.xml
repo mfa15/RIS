@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<options>
+
+	<zoom>
+		<toregion>0</toregion>		<!-- zoom-to-region mode (0 - disabled, 1 - enabled) -->
+		<offcenter>0</offcenter>  <!-- the image region pointed by mouse cursor (when zooming is started) retains its position on screen (0 - disabled, 1 - enabled) -->		
+	</zoom>
+	
+	<browse>
+		<scrollwrap>1</scrollwrap> <!-- "endless" scrolling (0 - disabled, 1 - enabled) -->
+	</browse>
+
+	<window>
+		<presets>		<!-- window settings - presets -->
+			<!-- <i m="CT" i="8" n="Preset 1" ww="70" wl="30"/> --> <!-- m - modality (CR, CT, MR, XA, MG, etc.), i - shortcut key (2-9), n - preset name, ww - window width, wl - window level -->
+			<!-- <i m="CT" i="9" n="Preset 2" ww="32" wl="30"/> -->
+		</presets>
+	</window>
+	
+	<synchronization>
+		<enabled>1</enabled> <!-- automatic synchronization (0 - disabled, 1 - enabled) -->
+		<slice>1</slice> <!-- synchronize slice location (0 - disabled, 1 - enabled) -->
+		<zoom>1</zoom> <!-- synchronize zoom&pan (0 - disabled, 1 - enabled) -->
+		<window>0</window> <!-- synchronize window settings (0 - disabled, 1 - enabled) -->
+	</synchronization>
+		
+	<updates>
+		<notify>1</notify> <!-- notify about new updates (0 - disabled, 1 - enabled) -->
+	</updates>
+	
+	<tools> <!-- tools assigned to mouse buttons (1 - browse series, 2 - zoom, 3 - pan, 4 - change WW/WL, 5 - ROI) -->
+		<lmb>1</lmb> <!--  left mouse button -->
+		<mmb>4</mmb> <!--  middle mouse button -->
+		<rmb>2</rmb> <!--  right mouse button -->
+		<mw>1</mw> <!-- mouse wheel - valid tools: browse series (1) or zoom (2) -->
+	</tools>
+	
+	<vr>
+		<penscalpel>0</penscalpel> <!-- associate the scalpel tool with pen (0 - disabled, 1 - enabled) -->
+	</vr>
+	
+	<mpr>
+		<autocenter>1</autocenter> <!-- auto center axes in viewports (0 - disabled, 1 - enabled) -->
+		<axisthkpts>0</axisthkpts> <!-- display thickness regulation points on the axis (0 - disabled, 1 - enabled) -->
+	</mpr>
+	
+	<cine>
+		<autorun>1</autorun> <!-- Cine mode is started automatically for XA and US series -->
+		<fps>10</fps> <!-- default frames-per-second rate for series without predefined FPS -->
+	</cine>
+	
+	<loading>
+		<autoshow>1</autoshow> <!-- mode of showing first image in viewport (0 - user has to click a series to show it, 1 - first scanned image file is shown, 2 - after scanning all files, first series from the preview bar is shown) -->
+		<ussep>0</ussep> <!-- show separate thumbnails for single frame ultrasound images belonging to the same DICOM series (0 - disabled, 1 - enabled) -->
+		<desc>0</desc> <!-- study sorting mode (0 - ascending date, 1 - descending date) -->
+	</loading>
+
+	<disabled>
+		<!-- disabled features and toolbar buttons -->
+		<!-- <folders/> -->
+		<!-- <cddvd/> -->
+		<!-- <pacs/> -->
+		<!-- <export/> -->
+	</disabled>	
+	
+	<screen>
+		<split c="0" r="0"/> <!-- default split screen preset c - columns, r - rows -->
+		<clp>0</clp>	<!-- close panel button behavior (0 - closes panel, 1 - clears panel) -->
+	</screen>
+	
+	<i18n>
+		<!-- <fiso>ISO_IR 192</fiso> --> <!-- define specific character set which overrides value defined in (0008,0005) SpecificCharacterSet tag for all DICOM files -->
+	</i18n>
+	
+	<pacs>
+		<!-- define additional PACS search fields -->
+		<srcfields>
+			<!-- <i id="00081070" n="Operators&apos; name" h="Enter operators&apos; name..." la="1" ta="1"/> --> <!-- id - DICOM tag id, n - name, h - hint, la - add leading asterisk, ta - add trailing asterisk -->
+		</srcfields>
+	</pacs>
+
+	<roi>
+		<length>
+			<units>0</units> <!-- measurement units (0 - automatic units, 1 - mm, 2 - cm, 3 - m, 4 - um, 5 - nm) -->
+			<precision>2</precision> <!-- number of decimal places displayed -->
+			<divide>0</divide> <!-- 1 - a mark is drawn in the middle of the segment -->
+		</length>
+		<ellipse>
+			<center>0</center> <!-- 1 - a mark is drawn in the center of the ellipse -->
+		</ellipse>
+	</roi>
+
+</options>

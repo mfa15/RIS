@@ -1,0 +1,609 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language fullver="4.1.20.17535" name="Polski" code="pl">
+<strings>
+<s i="1" c="4DAA7349">Tak</s>
+<s i="2" c="F22E0CBD">Nie</s>
+<s i="3" c="51BAC044">Anuluj</s>
+<s i="4" c="343B2B30">Zakończ</s>
+<s i="5" c="3BD7CDAE">Zgadzam się</s>
+<s i="6" c="D2C0AEC0">Zamknij</s>
+<s i="7" c="01555C2F">Wybierz folder</s>
+<s i="23" c="1CD0276B">Wstecz</s>
+<s i="8" c="A41DBF02">Dalej</s>
+<s i="21" c="2765EE2E">Zakończ</s>
+<s i="22" c="A8B5F392">Pomoc</s>
+<s i="9" c="D736D92D">OK</s>
+<s i="10" c="9C1C9375">Błąd</s>
+<s i="11" c="8FF3A55A">Uwaga</s>
+<s i="12" c="F55495E0">Zapisz</s>
+<s i="13" c="C5573507">Dodaj</s>
+<s i="14" c="F05ACDCF">Zmień</s>
+<s i="15" c="3DBE79B1">Usuń</s>
+<s i="16" c="0178DE79">Przenieś w górę</s>
+<s i="17" c="EBE45932">Przenieś w dół</s>
+<s i="18" c="2470DE02">Wyczyść</s>
+<s i="19" c="6BBB9E69">Informacja</s>
+<s i="24" c="7B719F09">Przeglądaj</s>
+<s i="25" c="ED8814BC">Kopiuj</s>
+<s i="26" c="5D97579C">Wklej</s>
+<s i="20" c="3381F8D5">Brak pamięci.</s>
+<s i="27" c="7D8CD81C">Kopiuj adres</s>
+<s i="1001" c="B6950BAB">Skanuj folder w poszukiwaniu plików DICOM</s>
+<s i="1002" c="D320C6B7">Otwórz płytę CD/DVD z plikami DICOM</s>
+<s i="1020" c="9DC5E90B">Znajdź i pobierz badania z lokalizacji PACS</s>
+<s i="1003" c="3B71CC52">Eksportuj obrazy</s>
+<s i="1019" c="7C20A904">Podziel ekran</s>
+<s i="1016" c="DEAC6ABB">Napisy</s>
+<s i="1004" c="D82749CB">Przeglądaj obrazy w serii</s>
+<s i="1005" c="5AE75AD7">Dostosuj okno (jasność/kontrast) obrazu</s>
+<s i="1006" c="57203431">Przesuwaj obraz</s>
+<s i="1007" c="297F59C4">Zmień rozmiar obrazu</s>
+<s i="1008" c="69A3D4D9">Pomiary</s>
+<s i="1015" c="0EEB3420">Transformacje</s>
+<s i="1009" c="29450B9E">Tryb CINE</s>
+<s i="1017" c="0BC1D420">Rekonstrukcje MPR</s>
+<s i="1018" c="2F12E387">Fuzja</s>
+<s i="1010" c="74350DE7">O programie</s>
+<s i="1011" c="09AE62E3">Tryb pełnoekranowy</s>
+<s i="1012" c="C159A64B">Wyjdź z trybu pełnoekranowego</s>
+<s i="1013" c="090AA1AF">Minimalizuj</s>
+<s i="1014" c="D2C0AEC0">Zamknij</s>
+<s i="1101" c="BE0F41AB">Nie znaleziono obrazów DICOM</s>
+<s i="1102" c="D9B734D7">Czy chcesz przeskanować inny folder w poszukiwaniu plików DICOM?</s>
+<s i="1103" c="9327CB5A">Wybrano nowy język</s>
+<s i="1104" c="9B0BA793">Wymagany jest restart programu w celu wprowadzenia zmian.</s>
+<s i="1105" c="944F702A">Zaimportowano nowy plik językowy</s>
+<s i="1106" c="9B233FBB">Została otworzona maksymalna liczba okien przeglądarki.&#x000D;&#x000A;Zamknij proszę jakieś okno przed otworzeniem nowego.&#x000D;&#x000A;</s>
+<s i="4005" c="90BA9D43">Nie znaleziono ważnej licencji</s>
+<s i="4006" c="9F66C4F8">Zainstaluj ponownie program RadiAnt DICOM Viewer.</s>
+<s i="4021" c="CC96A2C8">Upewnij się, że klucz licencyjny znajduje się na dysku.</s>
+<s i="4022" c="CFCF9DC6">Ta wersja może być uruchamiana tylko z dysku CD/DVD lub pamięci USB.</s>
+<s i="4007" c="E9A8B131">Odnawianie licencji</s>
+<s i="4008" c="DE25EEFD">Brak możliwości przedłużenia licencji</s>
+<s i="4009" c="40FB13F9">Pobrano nowy klucz licencyjny</s>
+<s i="4010" c="FF472193">Ta wersja programu została utworzona %s.&#x000D;&#x000A;Twoja licencja pozwala na darmowe aktualizacje do %s.</s>
+<s i="4011" c="23EBEAA8">Błąd importu klucza licencyjnego</s>
+<s i="4012" c="7CD40D95">Ten plik nie jest prawidłowym kluczem licencyjnym dla zainstalowanej wersji programu RadiAnt DICOM Viewer.</s>
+<s i="4013" c="B866A0AC">Jest to klucz licencyjny dla wersji CD/DVD.</s>
+<s i="4014" c="D8E8BBEA">Jest to klucz licencyjny dla wersji testowej.</s>
+<s i="4015" c="AC040365">Czy chcesz dokonać importu klucza licencyjnego z następującymi parametrami?</s>
+<s i="4016" c="8A941ACB">Informacje o kluczu licencyjnym</s>
+<s i="4017" c="0BD6C98F">Dziękujemy.</s>
+<s i="4018" c="C599FE86">Plik klucza licencyjnego został prawidłowo zaimportowany.</s>
+<s i="4019" c="FCE42F7B">Błąd importu.</s>
+<s i="4020" c="FA5DC4DF">Plik klucza licencyjnego nie mógł zostać zaimportowany.</s>
+<s i="1220" c="C24FE3EF">Otwórz folder DICOM</s>
+<s i="1219" c="D8015C6C">Otwórz plik DICOM</s>
+<s i="1222" c="A87E1EA9">Otwórz archiwum ZIP</s>
+<s i="1242" c="44DE6D80">Dodaj obrazy DICOM</s>
+<s i="1244" c="4863DA27">Dodaj folder DICOM</s>
+<s i="1243" c="41620A8A">Dodaj plik DICOM</s>
+<s i="1245" c="1F02EFB8">Dodaj archiwum ZIP</s>
+<s i="1228" c="3B71CC52">Eksportuj obrazy</s>
+<s i="1229" c="436CF3B1">Kopiuj do schowka</s>
+<s i="1292" c="BD3D3BB1">Kopiuj wszystko do schowka</s>
+<s i="1249" c="CE0F97D2">Napisy</s>
+<s i="1250" c="541CDC0A">Linie referencyjne</s>
+<s i="1251" c="C4B05BE0">Pokaż elementy DICOM</s>
+<s i="1265" c="C1F4DD65">Ukryj dane pacjenta</s>
+<s i="1278" c="EF861BF1">Ukryj pomiary</s>
+<s i="1288" c="BD981809">Zmień tryb synchronizacji</s>
+<s i="1289" c="C6888AC4">Automatyczny</s>
+<s i="1290" c="1777BBF2">Ręczny</s>
+<s i="1291" c="7D880CB5">Wyłączony</s>
+<s i="1267" c="D390B2F5">Synchronizuj pozycję skanu</s>
+<s i="1268" c="F68476FD">Synchronizuj powiększenie i przesunięcie</s>
+<s i="1269" c="5A59749B">Synchronizuj ustawienia okna</s>
+<s i="1270" c="C0A9CC6F">Otwórz kilka serii</s>
+<s i="1279" c="997CC919">Rozdziel serię</s>
+<s i="1272" c="6F56B5FB">Zamknij aktywny panel</s>
+<s i="1271" c="F186157C">Zamknij wszystkie panele</s>
+<s i="1273" c="B13F61F9">Pasek podglądu serii</s>
+<s i="1274" c="1F1A6CAD">Pasek narzędziowy i stanu</s>
+<s i="1280" c="260362E5">Nowe okno</s>
+<s i="1281" c="DF3ED1E5">Powiel okno</s>
+<s i="1282" c="343B2B30">Zakończ</s>
+<s i="1201" c="BBF12A94">Domyślne okno</s>
+<s i="1202" c="75C30B1C">Pełna dynamika</s>
+<s i="1203" c="1AF7CB73">TK Brzuch</s>
+<s i="1204" c="88C652BE">TK Angio</s>
+<s i="1205" c="0A611A2A">TK Kości</s>
+<s i="1206" c="A6238C6D">TK Mózg</s>
+<s i="1207" c="EEA1B95B">TK Klatka piersiowa</s>
+<s i="1208" c="15012A93">TK Płuca</s>
+<s i="1221" c="D6FE8128">Negatyw</s>
+<s i="1209" c="B10C8D08">Wypełnij panel</s>
+<s i="1284" c="173DC11B">Powiększ</s>
+<s i="1285" c="A2A319AD">Pomniejsz</s>
+<s i="1211" c="06D19B84">Odcinek</s>
+<s i="1212" c="83BEBFF6">Elipsa</s>
+<s i="1223" c="8DCD59BD">Ołówek</s>
+<s i="1247" c="C1406A0D">Kąt</s>
+<s i="1248" c="5A35D788">Kąt Cobba</s>
+<s i="1287" c="1259F157">Odchylenie</s>
+<s i="1256" c="F3C155AC">Edytuj pomiary</s>
+<s i="1257" c="DEF15673">Kopiuj zaznaczony</s>
+<s i="1258" c="2445AEE5">Kopiuj wszystkie</s>
+<s i="1259" c="5D97579C">Wklej</s>
+<s i="1260" c="EB91EE08">Powiel w innych panelach</s>
+<s i="1261" c="EA66496B">Powiel we wszystkich obrazach serii</s>
+<s i="1225" c="BDDD8809">Skasuj zaznaczone</s>
+<s i="1226" c="2D9439F7">Skasuj wszystkie w obrazie</s>
+<s i="1227" c="E2F583CA">Skasuj wszystkie w serii</s>
+<s i="1262" c="913F31FF">Skasuj we wszystkich panelach</s>
+<s i="1276" c="73FAEFF4">Zmniejsz wielkość czcionki</s>
+<s i="1277" c="35DB3405">Zwiększ wielkość czcionki</s>
+<s i="1263" c="FF2CD1B3">Zaawansowane narzędzia</s>
+<s i="1264" c="1F13CC9F">Utwórz krzywą wzmocnienia (TIC)</s>
+<s i="1237" c="9B482991">Obróć o 90° w lewo</s>
+<s i="1236" c="395B85CC">Obróć o 90° w prawo</s>
+<s i="1238" c="95238BB1">Obróć o 180°</s>
+<s i="1239" c="02C300C1">Odbij poziomo</s>
+<s i="1240" c="AD312D0E">Odbij pionowo</s>
+<s i="1241" c="991C82C8">Wyczyść transformacje</s>
+<s i="1283" c="F4B95AE9">Rekonstrukcja 3D VR</s>
+<s i="1293" c="79F1F608">3D MPR</s>
+<s i="1252" c="8BD1C850">Czołowy</s>
+<s i="1253" c="9DDEC611">Strzałkowy</s>
+<s i="1254" c="72DE89AD">Osiowy</s>
+<s i="1213" c="FF58A4C3">Pomoc online</s>
+<s i="1214" c="7DE0A710">Wybór języka</s>
+<s i="1231" c="C70E752F">Pobierz pliki językowe</s>
+<s i="1217" c="1F90DBE8">Importuj plik językowy XML</s>
+<s i="1218" c="D9CA8F9B">Sprawdź aktualizacje</s>
+<s i="1286" c="B40D37EE">Dostosuj klawiaturę</s>
+<s i="1294" c="F3F5555B">Wprowadź klucz licencyjny</s>
+<s i="1295" c="54CC4B33">Aktualizuj licencję</s>
+<s i="1296" c="AA57D0AB">Deaktywuj ten komputer</s>
+<s i="1232" c="C0739C70">RadiAnt w sieci WWW</s>
+<s i="1233" c="C7D761EC">Strona główna RadiAnt</s>
+<s i="1234" c="A5246FA8">Sklep Online RadiAnt</s>
+<s i="1235" c="19C4D356">Formularz kontaktowy</s>
+<s i="1255" c="BFC54355">Umowa licencyjna</s>
+<s i="1215" c="81F5CD3E">O programie RadiAnt DICOM Viewer</s>
+<s i="2001" c="74350DE7">O programie</s>
+<s i="2004" c="3C541641">Umowa licencyjna</s>
+<s i="2007" c="B2C81908">Licencja dla:</s>
+<s i="2009" c="7A79FD52">Okres wsparcia do:</s>
+<s i="2010" c="739061DA">Informacja o programie</s>
+<s i="2011" c="FDAAE683">Informacja o licencji</s>
+<s i="2012" c="45CCC138">Nazwa:</s>
+<s i="2013" c="EFAADBB0">Wersja:</s>
+<s i="2014" c="984477E2">Data utworzenia:</s>
+<s i="2015" c="ED4FFCE8">ID licencji:</s>
+<s i="2016" c="9B0E2A6E">Typ licencji:</s>
+<s i="2017" c="4E08B795">Licencja wygasa:</s>
+<s i="2018" c="53029F0C">Nigdy</s>
+<s i="2019" c="043D479D">Brak wsparcia</s>
+<s i="2020" c="125CEB22">Dostępne funkcje:</s>
+<s i="2021" c="DEFC59C6">ID komputera:</s>
+<s i="2501" c="29450B9E">Cine</s>
+<s i="2502" c="C38F757A">FPS</s>
+<s i="2503" c="5EB87A8B">Start</s>
+<s i="2504" c="1964B988">Stop</s>
+<s i="3001" c="3B71CC52">Eksport obrazów</s>
+<s i="3024" c="C9466CBF">Eksportuję obrazy...</s>
+<s i="3002" c="26FEE9AC">Eksport obrazów - koniec</s>
+<s i="3003" c="04FC2B5B">Obraz</s>
+<s i="3004" c="452013A2">Eksportuj</s>
+<s i="3005" c="282987BA">Aktualny obraz</s>
+<s i="3006" c="EA9D0359">Aktualną serię</s>
+<s i="3030" c="A29DE604">Wszystkie serie</s>
+<s i="3007" c="4652C46E">Więcej opcji</s>
+<s i="3008" c="FA117B75">Format pliku</s>
+<s i="3009" c="F70AFE4E">Lokalizacja eksportu</s>
+<s i="3010" c="EB0E0CFB">Folder</s>
+<s i="3011" c="01555C2F">Wybierz folder</s>
+<s i="3012" c="DD8FA051">Prefiks pliku</s>
+<s i="3013" c="C87168A9">Ustawienia plików</s>
+<s i="3014" c="3125BA3A">Rozmiar obrazu</s>
+<s i="3015" c="723B536B">Domyślny (1:1)</s>
+<s i="3016" c="5BC0E1EA">Aktualny rozmiar</s>
+<s i="3017" c="CE0F97D2">Napisy</s>
+<s i="3018" c="404D7B9E">Pełne</s>
+<s i="3019" c="37D77B4B">Podstawowe (anonim)</s>
+<s i="3020" c="7D880CB5">Wyłączone</s>
+<s i="3021" c="03F750C8">Jakość JPEG</s>
+<s i="3022" c="71916059">najgorsza (mniejszy plik)</s>
+<s i="3023" c="859D3B84">najlepsza (większy plik)</s>
+<s i="3034" c="DCE72686">JPEG</s>
+<s i="3035" c="A2E3E000">BMP</s>
+<s i="3036" c="801D435D">DICOM</s>
+<s i="3025" c="A9482C73">WMV (film)</s>
+<s i="3026" c="3F0B280A">Prędkość</s>
+<s i="3027" c="2CE33943">Domyślna</s>
+<s i="3028" c="F22813AD">Użytkownika</s>
+<s i="3029" c="C38F757A">klatek/sek.</s>
+<s i="3031" c="48A67B9F">Jakość WMV</s>
+<s i="3032" c="B6AFECFE">Dopasuj do</s>
+<s i="3033" c="30389207">px</s>
+<s i="3037" c="8866525B">Błąd eksportu</s>
+<s i="3038" c="A10D2A2B">Obrazy nie mogły zostać eksportowane do formatu DICOM.</s>
+<s i="3501" c="BEAF2A7D">Aktualizacje</s>
+<s i="3502" c="7828BAA2">RadiAnt DICOM Viewer - dostępna jest nowa wersja</s>
+<s i="3503" c="EFB59D3B">Aktualnie nie ma dostępnych aktualizacji dla przeglądarki RadiAnt.</s>
+<s i="3504" c="F24A07B7">Nie przypominaj mi więcej o tej aktualizacji</s>
+<s i="3505" c="8EE1A600">Problem z siecią</s>
+<s i="3506" c="DD7F7046">Nie można uzyskać połączenia z serwerem aktualizacji.</s>
+<s i="5001" c="42AA7E9A">%dm %02ds (pozostało %dm %02ds)</s>
+<s i="6001" c="30389207">px</s>
+<s i="6018" c="E101F268">m</s>
+<s i="6015" c="3C0A377E">cm</s>
+<s i="6002" c="A2891AF0">mm</s>
+<s i="6016" c="C7DBDC24">µm</s>
+<s i="6017" c="89A44933">nm</s>
+<s i="6003" c="77A69256">Pole</s>
+<s i="6004" c="947BB8EE">cm²</s>
+<s i="6005" c="CC3A2104">px²</s>
+<s i="6006" c="D0CA408E">Średnia</s>
+<s i="6007" c="99365B30">Min</s>
+<s i="6008" c="A53B6469">Max</s>
+<s i="6009" c="B4D9022E">SUVbw</s>
+<s i="6010" c="20F329E2">g/ml</s>
+<s i="6011" c="90D40289">Bq/ml</s>
+<s i="6013" c="289A50B1">cal</s>
+<s i="6014" c="4DBD0B28">F</s>
+<s i="6012" c="E1610187">Uwaga! Obraz interpolowany.&#x000D;&#x000A;Wszystkie wartości są przybliżone.</s>
+<s i="6101" c="7A5E3BC4">Kalibracja</s>
+<s i="6102" c="AE9FA71A">Kalibracja długości</s>
+<s i="6103" c="C608957F">Wpisz nową odległość</s>
+<s i="6104" c="7C89A36D">Jednostka</s>
+<s i="6105" c="65F46A50">milimetry</s>
+<s i="6106" c="06EA4B0C">cale</s>
+<s i="6107" c="96517CEF">F (French)</s>
+<s i="6108" c="FEBA54E6">Anuluj kalibrację</s>
+<s i="7001" c="B47E98F8">Skanuję folder...</s>
+<s i="7008" c="9B4BC921">(znaleziono %d plików)</s>
+<s i="7009" c="7741E224">(pozostało plików: %d)</s>
+<s i="7002" c="4A9BDEF0">Odczytuję obrazy...</s>
+<s i="7003" c="27A5A956">Skanowanie przerwane</s>
+<s i="7004" c="B9E5883E">Wczytywanie przerwane</s>
+<s i="7005" c="E954AAAB">Gotowy</s>
+<s i="7006" c="F3703C4E">Odczytuję archiwum ZIP...</s>
+<s i="7007" c="93DB3DDC">Tworzę serię MPR...</s>
+<s i="8001" c="A3B36A04">D</s>
+<s i="8002" c="4DBD0B28">P</s>
+<s i="8003" c="1AF7CB73">TK Brzuch</s>
+<s i="8004" c="88C652BE">TK Angio</s>
+<s i="8005" c="0A611A2A">TK Kości</s>
+<s i="8006" c="A6238C6D">TK Mózg</s>
+<s i="8007" c="EEA1B95B">TK Klatka piersiowa</s>
+<s i="8008" c="721D0CDF">TK Płuca</s>
+<s i="9001" c="F8315FE9">Im: %d/%d</s>
+<s i="9002" c="804AA577">%d fps</s>
+<s i="9003" c="A827882A">Se:</s>
+<s i="9031" c="45D85452">kV</s>
+<s i="9032" c="90517613">mA</s>
+<s i="9004" c="55B4AABF">TR: %.1f TE: %.1f</s>
+<s i="9005" c="EF06B6A5">FS:</s>
+<s i="9006" c="DC0A5744">T: %.1fmm</s>
+<s i="9007" c="CB12B72D">L: %.1fmm</s>
+<s i="9008" c="75DE7C20">WL: %.0f WW: %.0f [%s]</s>
+<s i="9009" c="66D05D8B">WL: %.0f WW: %.0f</s>
+<s i="9019" c="4366831A">N</s>
+<s i="9010" c="ADED9A14">X: %d Y: %d</s>
+<s i="9011" c="ADE191E5">Val:</s>
+<s i="9012" c="AD68E236">L</s>
+<s i="9013" c="5767DF55">R</s>
+<s i="9014" c="2060EFC3">S</s>
+<s i="9015" c="DD0216B9">I</s>
+<s i="9016" c="D3D99E8B">A</s>
+<s i="9017" c="B969BE79">P</s>
+<s i="9018" c="E98F3A22">l.%d</s>
+<s i="9020" c="8EBEDD7D">R: </s>
+<s i="9021" c="3C5C5302">90° CW</s>
+<s i="9022" c="E791C1F0">90° CCW</s>
+<s i="9023" c="793A55B5">180°</s>
+<s i="9024" c="9591D6D1">F: </s>
+<s i="9025" c="AA05262F">H</s>
+<s i="9026" c="500A1B4C">V</s>
+<s i="9027" c="AA0E3B93">%.01f°</s>
+<s i="9028" c="7FE4657D">Min: %s Max: %s</s>
+<s i="9029" c="73DE3E30">Ten obraz nie jest już dostępny</s>
+<s i="9030" c="119CC4C3">Stratna kompresja</s>
+<s i="9033" c="20C5D4A7">Max:</s>
+<s i="10001" c="AFC10D97">%s: liczba serii: %d</s>
+<s i="10003" c="300CB394">Wciśnij klawisz Control i kliknij obrazek, aby otworzyć serię w nowym panelu.</s>
+<s i="11001" c="8F7668DC">Elementy DICOM</s>
+<s i="11002" c="4C394D20">ID elementu</s>
+<s i="11003" c="285DD8F5">VR</s>
+<s i="11004" c="A555D500">VM</s>
+<s i="11005" c="06D19B84">Długość</s>
+<s i="11006" c="EB78CFF1">Opis</s>
+<s i="11007" c="DCB67730">Wartość</s>
+<s i="11008" c="302663E2">Znajdź tekst...</s>
+<s i="11009" c="F30A07FE">Pokaż plik DICOM w Eksploratorze</s>
+<s i="11010" c="1C8434D7">Kopiuj wartość</s>
+<s i="11011" c="C215190C">Kopiuj zaznaczoną pozycję</s>
+<s i="11012" c="8B425730">Kopiuj wszystkie pozycje</s>
+<s i="13001" c="58FE435C">Narzędzie krzywej wzmocnienia</s>
+<s i="13002" c="3DC06D60">Krzywa wzmocnienia</s>
+<s i="13008" c="64123A1C">Se: %d, Im: %d</s>
+<s i="13003" c="76678654">Wybierz serie do krzywej wzmocnienia (przytrzymaj CTRL i klikaj lewym klawiszem myszki aby zmienić zaznaczenie)</s>
+<s i="13004" c="913C1A62">Numer</s>
+<s i="13005" c="CFA6377B">Czas</s>
+<s i="13006" c="E3609A1F">Opis serii</s>
+<s i="13007" c="D567EE77">Pacjent</s>
+<s i="13009" c="CCAF7329">Wymagane są przynajmniej dwie serie z narysowanymi elipsami do utworzenia krzywej wzmocnienia.</s>
+<s i="13010" c="C0A9CC6F">Otwórz kilka serii</s>
+<s i="13011" c="410430DF">Wybierz serie do otworzenia w wielu panelach (przytrzymaj CTRL i klikaj lewym klawiszem myszki aby zmienić zaznaczenie)</s>
+<s i="20000" c="E199AB8D">Data badania</s>
+<s i="20001" c="B4019F28">Nazwisko pacjenta</s>
+<s i="20002" c="26E14AC2">Data urodzin</s>
+<s i="20003" c="D593BAAE">ID pacjenta</s>
+<s i="20004" c="C90FEA96">Modalność</s>
+<s i="20005" c="58AC9165">Opis badania</s>
+<s i="20006" c="6B3CF3C0">Numer katalogowy</s>
+<s i="20007" c="69774C0A">ID badania</s>
+<s i="20008" c="94D2CB09">Lekarz kierujący</s>
+<s i="20009" c="E0D13047">Lekarz wykonujący badanie</s>
+<s i="20010" c="2F6F851B">Lekarz opisujący badanie</s>
+<s i="20011" c="249DA22E">Nazwa instytucji</s>
+<s i="20012" c="E7B3BB5C">Obrazy</s>
+<s i="20013" c="58267A45">Źródło</s>
+<s i="20015" c="B35CDE91">Szukaj</s>
+<s i="20016" c="2470DE02">Wyczyść</s>
+<s i="20017" c="816CE026">Pobierz</s>
+<s i="20018" c="75EA2803">Wszystkie modalności</s>
+<s i="20019" c="6D3FACB8">Pokaż konfigurację PACS</s>
+<s i="20020" c="0A695E84">Anuluj wyszukiwanie i pobierania</s>
+<s i="20021" c="B1D99970">Pokaż pobierane badania</s>
+<s i="20022" c="5DF46223">Szukam...</s>
+<s i="20023" c="D7BB3FD7">Liczba znalezionych badań: %d</s>
+<s i="20024" c="53AD2CBE">Znaleziono 1 badanie</s>
+<s i="20025" c="CE627D1D">Dodaj do aktywnego okna</s>
+<s i="20026" c="30146511">Pobierz do nowego okna</s>
+<s i="20027" c="9B5FC4E7">Pobierz do oddzielnych okien</s>
+<s i="20064" c="A891282F">Znajdź wszystkie badania tego pacjenta</s>
+<s i="20028" c="FD8681A0">Wybrane urządzenie PACS musi być skonfigurowane z twoim adresem IP, portem i tytułem AE, tak aby mogło przesyłać badania do twojego komputera.</s>
+<s i="20029" c="C9CFAE42">Podaj nazwisko pacjenta...</s>
+<s i="20030" c="62F597F3">Podaj ID pacjenta...</s>
+<s i="20031" c="08DC2B10">Podaj numer katalogowy...</s>
+<s i="20032" c="1CF94FA5">Podaj opis...</s>
+<s i="20033" c="1D48F2ED">Podaj lekarza kierującego...</s>
+<s i="20034" c="B1436389">Podaj lekarza przeprowadzającego badanie...</s>
+<s i="20035" c="6E554ED7">Podaj lekarza opisującego badanie...</s>
+<s i="20036" c="A9D1299E">Podaj nazwę instytucji...</s>
+<s i="20037" c="8E48ABBA">Wszystkie daty</s>
+<s i="20038" c="904DCE0C">Dzisiaj przed południem</s>
+<s i="20039" c="28F0A10F">Dzisiaj po południu</s>
+<s i="20040" c="721589C1">Dzisiaj</s>
+<s i="20041" c="67C5A895">Wczoraj</s>
+<s i="20042" c="E030F4D8">Przedwczoraj</s>
+<s i="20043" c="86659455">Ostatnie 30 minut</s>
+<s i="20044" c="F8C43932">Ostatnia godzina</s>
+<s i="20045" c="E2C9402F">Ostatnie 2 godziny</s>
+<s i="20046" c="44BE4B9B">Ostatnie 3 godziny</s>
+<s i="20047" c="1686643C">Ostatnie 6 godzin</s>
+<s i="20048" c="46B91F61">Ostatnie 8 godzin</s>
+<s i="20049" c="BC287538">Ostatnie 12 godzin</s>
+<s i="20050" c="517747E1">Ostatnie 24 godziny</s>
+<s i="20051" c="E5AAA6B4">Ostatnie 2 dni</s>
+<s i="20052" c="34025821">Ostatni tydzień</s>
+<s i="20053" c="E8E2AA70">Ostatnie 2 tygodnie</s>
+<s i="20054" c="59D49AD9">Ostatni miesiąc</s>
+<s i="20055" c="06F9CD89">Ostatnie 3 miesiące</s>
+<s i="20056" c="4E19C3ED">Ostatnie 6 miesięcy</s>
+<s i="20057" c="D4DA42D6">Ostatni rok</s>
+<s i="20058" c="E2FE505B">Bieżący tydzień</s>
+<s i="20059" c="E9D2FEF3">Bieżący miesiąc</s>
+<s i="20060" c="02264AAC">Bieżący rok</s>
+<s i="20067" c="56F6074E">Wybrana data</s>
+<s i="20061" c="AF85A5B4">Wybrany zakres dat</s>
+<s i="20062" c="780A1CBF">Pokaż więcej ustawień...</s>
+<s i="20063" c="9D9C5610">Wszystkie lokalizacje</s>
+<s i="20065" c="95FC060C">Dodaj ustawienie</s>
+<s i="20066" c="C8D52D67">Skasuj ustawienie</s>
+<s i="30001" c="B8E3AC1C">Dodaj ustawienie wyszukiwania PACS</s>
+<s i="30002" c="A3915FCD">Nazwa ustawienia:</s>
+<s i="30003" c="6F6893CC">Skrót:</s>
+<s i="30004" c="6F83123F">Zapisz wybrane lokalizacje PACS</s>
+<s i="21001" c="D6751A4C">Konfiguracja PACS</s>
+<s i="21002" c="293C9CD5">Port nasłuchujący:</s>
+<s i="21003" c="0785E4B2">Mój tytuł AE:</s>
+<s i="21004" c="8EB87995">Lokalizacje PACS</s>
+<s i="21005" c="9A23D7C3">Adres IP</s>
+<s i="21006" c="E3A3F2F2">Port</s>
+<s i="21007" c="7C9ECD84">Tytuł AE</s>
+<s i="21008" c="EB78CFF1">Opis</s>
+<s i="21016" c="FBC5AA17">Limit aktywnych pobierań</s>
+<s i="21017" c="E17F36CA">Preferowane kodowanie transmisji</s>
+<s i="21009" c="9E434EED">Nie można zapisać opcji PACS.</s>
+<s i="21010" c="EE17A955">Proszę podać adres hosta.</s>
+<s i="21011" c="C7007917">Proszę podać ważny port.</s>
+<s i="21012" c="AB26ABC7">Proszę podać ważny tytuł AE (1-16 znaków).</s>
+<s i="21013" c="0D0148FD">Proszę podać opis hosta.</s>
+<s i="21014" c="A7A3B413">Host z takim samym IP i tytułem AE już istnieje.</s>
+<s i="21015" c="5C1D3875">Host z takim samym opisem już istnieje.</s>
+<s i="21018" c="A67DF372">Weryfikuj lokalizacje PACS</s>
+<s i="21019" c="9BCBF562">Ustawienia zaawansowane</s>
+<s i="21020" c="BDBB201E">Akceptuj wszystkie Presentation Contexts</s>
+<s i="21021" c="A42078E9">Protokół pobierania</s>
+<s i="21030" c="52CD39EA">Ustawienia szukania</s>
+<s i="21022" c="2D9C057D">Zestaw znaków</s>
+<s i="21023" c="2CE33943">Domyślny</s>
+<s i="21024" c="AD9E6E00">Dodaj gwiazdki (*)</s>
+<s i="21025" c="DFA2AFF1">Brak</s>
+<s i="21026" c="3946224E">Początkowa</s>
+<s i="21027" c="866D2052">Końcowa</s>
+<s i="21028" c="5BE8962F">Obie</s>
+<s i="21029" c="66651B22">Zamień spacje na daszki (^)</s>
+<s i="22001" c="D22D979A">Pobierane badania z PACS</s>
+<s i="22002" c="EA80E201">Pacjent (data badania)</s>
+<s i="22003" c="DB779010">Postęp</s>
+<s i="22004" c="B2989F92">Czas pobierania</s>
+<s i="22005" c="7D0E4F8C">Przesłane dane</s>
+<s i="22006" c="E2327D13">Aktualna prędkość</s>
+<s i="22007" c="F13716BD">Średnia prędkość</s>
+<s i="22008" c="8A6230F7">Pobrane pliki</s>
+<s i="22009" c="4649ADCD">Oczekiwane pliki</s>
+<s i="22010" c="09FC1CC8">Lokalizacja PACS</s>
+<s i="22011" c="EDF7A99A">Komunikat błędu</s>
+<s i="22012" c="4BB58267">Zakolejkowano</s>
+<s i="22013" c="7B2BAF46">Rozpoczęto</s>
+<s i="22014" c="5F39C96A">Zakończono</s>
+<s i="22015" c="A767B432">Oczekuję</s>
+<s i="22016" c="066DF953">Łączę się</s>
+<s i="22017" c="B6557F23">Pobieram</s>
+<s i="22018" c="5F39C96A">Zakończone</s>
+<s i="22019" c="8FF3A55A">Ostrzeżenie</s>
+<s i="22020" c="9C1C9375">Błąd</s>
+<s i="22021" c="7B047964">Anulowane</s>
+<s i="22022" c="11C5BC85">Połączenie nieudane</s>
+<s i="22023" c="8171186C">Asocjacja odrzucona</s>
+<s i="22024" c="D27DA8BD">Przekroczony limit czasu</s>
+<s i="22025" c="ADEE091B">Połączenie zakończone</s>
+<s i="22026" c="D2C233BE">Jeden lub więcej błędów</s>
+<s i="22027" c="1CD2F6E1">Odrzucono: brak zasobów</s>
+<s i="22028" c="5A82DC5D">Nie można obliczyć liczby dopasowań</s>
+<s i="22029" c="CF5AF55D">Nieznany docelowy host</s>
+<s i="22030" c="F07CEE85">Identyfikator nie pasuje do klasy SOP</s>
+<s i="22031" c="C4B87658">Nie można przetworzyć</s>
+<s i="22032" c="38179B99">Zakończono z powodu anulowania</s>
+<s i="23001" c="DB811081">Pobieram obrazy z PACS...</s>
+<s i="23002" c="D4292722">Liczba plików pobranych z PACS: %d</s>
+<s i="23003" c="389C0447">Wymagana jest konfiguracja lokalizacji PACS przed użyciem funkcji wyszukiwania i pobierania badań. Czy chcesz zrobić to teraz?</s>
+<s i="23004" c="CF6E9DC0">Nie można otworzyć gniazda przyjmującego połączenia PACS na porcie %d</s>
+<s i="23005" c="E2086211">Aplikacja jest blokowana przez Windows Firewall.&#x000D;&#x000A;&#x000D;&#x000A;RadiAnt spróbuje dodać regułę firewalla. W przypadku niepowodzenia nie będziesz mógł ściągać badań z lokalizacji PACS dopóki nie oblokujesz w programu ręcznie w firewallu.</s>
+<s i="23006" c="5B4F0DBC">RadiAnt zostanie teraz uruchomiony ponownie z włączonym logowaniem komunikacji PACS.&#x000D;&#x000A;Plik loga zostanie zapisany na Pulpicie.</s>
+<s i="24001" c="53D61E3A">Kliknij dwa razy albo naciśnij ENTER&#x000D;&#x000A;aby wyświetlić ten dokument w przeglądarce HTML</s>
+<s i="24002" c="EFBCC08A">Informacja o pacjencie</s>
+<s i="24003" c="FE11D138">Nazwisko i imię</s>
+<s i="24004" c="D593BAAE">ID pacjenta</s>
+<s i="24005" c="D1EBA094">Data urodzin</s>
+<s i="24006" c="D7EF2F17">Płeć</s>
+<s i="24007" c="9AAD4617">Informacja o badaniu</s>
+<s i="24008" c="0959227D">Study Instance UID</s>
+<s i="24009" c="DE301EB2">Opis badania</s>
+<s i="24010" c="41AB04B3">Data badania</s>
+<s i="24011" c="EF814AB8">ID badania</s>
+<s i="24012" c="6C90F6F6">Numer katalogowy</s>
+<s i="24013" c="16545DDD">Model</s>
+<s i="24014" c="253B3D24">Producent</s>
+<s i="24015" c="BC031732">Instytucja</s>
+<s i="24016" c="B46772E6">Informacja o dokumencie SR</s>
+<s i="24017" c="6A2116F0">Flaga ukończenia</s>
+<s i="24018" c="BBD3F247">Flaga weryfikacji</s>
+<s i="25001" c="4DB3CDFB">Zapisz obraz</s>
+<s i="25002" c="40A36288">Przód</s>
+<s i="25003" c="5B2F6553">Tył</s>
+<s i="25004" c="DA554856">Lewo</s>
+<s i="25005" c="750B5A10">Prawo</s>
+<s i="25006" c="8075DEFC">Góra</s>
+<s i="25007" c="DD58DAAD">Dół</s>
+<s i="25008" c="B87A225F">Przywróć objętość</s>
+<s i="25009" c="2D6EA23B">Resetuj scenę</s>
+<s i="25010" c="1594EE9D">Obracaj 3D</s>
+<s i="25011" c="8E879DF0">Obracaj 2D</s>
+<s i="25012" c="4511E11B">Przesuwaj</s>
+<s i="25013" c="1719D64A">Zmień rozmiar</s>
+<s i="25014" c="6F11E2E5">Dopasuj objętość</s>
+<s i="25015" c="F28FD823">Dostosuj okno</s>
+<s i="25016" c="DCEC9D27">Skalpel</s>
+<s i="25017" c="06D19B84">Pomiar długości</s>
+<s i="25018" c="C3E3DDD5">Odstępy między skanami są nieregularne. Mogą wystąpić zniekształcenia w obrazie i pomiarach.</s>
+<s i="25019" c="BE5C7185">Objętość nie mogła zostać załadowana.</s>
+<s i="25020" c="4668B9EA">Skany w tej serii są pochylone.</s>
+<s i="25021" c="00E21DB6">L-R: %s S-I: %s Roll: %s</s>
+<s i="25022" c="C0A8A7AE">Wytnij obszar</s>
+<s i="25023" c="48F25289">Zostaw obszar</s>
+<s i="25024" c="E8612E51">Wyczyść obszar</s>
+<s i="25025" c="7B719F09">Przeglądaj</s>
+<s i="26001" c="7A02E2C3">Klawiatura</s>
+<s i="26002" c="AB161A43">Pokaż komendy zawierające:</s>
+<s i="26003" c="B5557CA0">Skróty dla wybranej komendy:</s>
+<s i="26004" c="6F2C1806">Usuń</s>
+<s i="26005" c="B8C0A2E6">Naciśnij klawisze skrótu:</s>
+<s i="26006" c="758EAC97">Przypisz</s>
+<s i="26007" c="1FD44381">Skrót aktualnie używany przez:</s>
+<s i="26008" c="915C9049">Resetuj</s>
+<s i="27001" c="ABF4C2AF">Kliknij dwa razy albo naciśnij ENTER&#x000D;&#x000A;aby wyświetlić ten dokument&#x000D;&#x000A;w zewnętrznej przeglądarce PDF.</s>
+<s i="27002" c="6B1EFC57">Kliknij dwa razy albo naciśnij ENTER&#x000D;&#x000A;aby wyświetlić ten film&#x000D;&#x000A;w zewnętrznym odtwarzaczu.</s>
+<s i="27003" c="47D9A699">Polecamy %s.</s>
+<s i="28002" c="A335183A">Kod aktywacyjny jest błędny.</s>
+<s i="28003" c="AFE4D330">Twoja licencja nie może być aktywowana.</s>
+<s i="28004" c="C0E3909F">Przed użyciem programu wymagana jest jego aktywacja.&#x000D;&#x000A;&#x000D;&#x000A;Jeśli posiadasz firewall lub serwer proxy albo ten komputer nie ma połączenia internetowego, będzie można aktywować program ręcznie.</s>
+<s i="28005" c="F3E09608">Aktywuj licencję próbną</s>
+<s i="28006" c="6504D7AD">Wykryto nieważny kod aktywacyjny. Proszę aktywuj ponownie swoją licencję.</s>
+<s i="28007" c="8A3106F8">Pozostało %d dni okresu próbnego.</s>
+<s i="28008" c="0E6181AE">Kontynuuj testowanie</s>
+<s i="28009" c="13036E14">Okres testowy zakończył się.</s>
+<s i="28010" c="38E04A8D">Sprawź możliwość przedłużenia licencji testowej</s>
+<s i="28011" c="37556CF9">Zainstalowano nową wersję. Musi ona być aktywowana zanim rozpoczniesz jej używanie.</s>
+<s i="28012" c="9300EE7B">Wykryto zmianę konfiguracji sprzętu. Musisz ponownie aktywować oprogramowanie.</s>
+<s i="28013" c="FDADCCEB">Twoja licencja posiada subskrypcję aktualizacji i wsparcia ważną do %s.&#x000D;&#x000A;Ta wersja została wydana %s.&#x000D;&#x000A;Musisz &#x003C;a&#x003E;odnowić subskrypcję&#x003C;/a&#x003E; aby móc używać tej wersji.&#x000D;&#x000A;Możesz powrócić do ostatniej wersji, którą obejmuje twoja licencja. Pobierzesz ją &#x003C;a&#x003E;tutaj&#x003C;/a&#x003E;.</s>
+<s i="28014" c="518B0FED">Kup przedłużenie subskrypcji aktualizacji i wsparcia online</s>
+<s i="28015" c="96A71AC9">Odświeżenie licencji po odnowieniu subskrypcji aktualizacji i wsparcia.</s>
+<s i="28016" c="372807B8">Aktywuj licecję przy pomocy pliku klucza licencyjnego.</s>
+<s i="28017" c="DFF69B25">Aktywuj płatną licencję.</s>
+<s i="28018" c="51C386A1">Kod błędu: %d</s>
+<s i="28019" c="9EF9325C">Zbyt wiele nieprawidłowych prób.</s>
+<s i="28020" c="F679C2E2">Twój adres IP został tymczasowo zablokowany.</s>
+<s i="28021" c="654DBA8A">Zbyt wiele prób.</s>
+<s i="28059" c="F1338A9A">Licencja próbna nie jest dostępna dla tej wersji programu.&#x000D;&#x000A;Pobierz nową wersję z naszej strony albo kup licencję aby używać tej wersji.</s>
+<s i="28060" c="551BBAF9">Zakończył się okres testowy dla tej wersji programu.&#x000D;&#x000A;Będziesz mógł rozpocząć jeszcze raz okres testowy, gdy zostanie wydana nowa wersja.&#x000D;&#x000A;Możesz także kupić licencję aby używać nadal tej wersji.</s>
+<s i="28022" c="8B3B2095">Nieważny kod żądania.</s>
+<s i="28023" c="E3A7FA83">Nieważny numer seryjny.</s>
+<s i="28025" c="A62F6FC8">Wszystkie dostępne licencje zostały aktywowane.&#x000D;&#x000A;Musisz zakupić dodatkowe licencje albo deaktywować oprogramowanie na innym komputerze.</s>
+<s i="28026" c="5D1B105D">Błąd aktywacji online.</s>
+<s i="28027" c="7D58DB5C">Łączę się z serwerem licencji...</s>
+<s i="28028" c="A46E028A">Generuję kod żądania...</s>
+<s i="28029" c="92AFF87C">Licencja testowa</s>
+<s i="28030" c="C9FB63B8">Licencja płatna</s>
+<s i="28031" c="035EB1FE">Licencja wygasa</s>
+<s i="28032" c="F27CD4A1">Subskrypcja aktualizacji i wsparcia do</s>
+<s i="28033" c="44E6B9F0">Jeśli chcesz przenieść licencję na inny komputer, zaznacz pole &#x0022;Chcę deaktywować ten komputer&#x0022; i kliknij przycisk &#x0022;Dalej&#x0022;.&#x000D;&#x000A;&#x000D;&#x000A;Jeśli posiadasz firewall lub serwer proxy albo ten komputer nie ma połączenia internetowego, będziesz mógł deaktywować program ręcznie.&#x000D;&#x000A;&#x000D;&#x000A;Po deaktywacji RadiAnt DICOM Viewer nie będzie działał na tym komputerze.&#x000D;&#x000A;Pamiętaj, że liczba możliwych deaktywacji jest ograniczona dla danego komputera.</s>
+<s i="28034" c="CC9D9AD5">Deaktywacja udana.</s>
+<s i="28035" c="DA4BDB24">Nieważny kod aktywacji.</s>
+<s i="28036" c="449DBA84">Nieważny kod deaktywacyjny.</s>
+<s i="28037" c="92DE70D2">Limit możliwych deaktywacji został wyczerpany dla tego komputera.&#x000D;&#x000A;Nie można go już więcej deaktywować.</s>
+<s i="28066" c="FC6AD945">Limit możliwych deaktywacji został wyczerpany dla twojej licencji.&#x000D;&#x000A;Będziesz mógł deaktywować ten komputer za %d dni.</s>
+<s i="28038" c="386A0EDD">Błąd deaktywacji online.</s>
+<s i="28001" c="20AF486E">Ten numer seryjny jest nieważny.</s>
+<s i="28039" c="8236051B">Wybierz prawidłowy plik klucza licencyjnego.</s>
+<s i="28040" c="5F219E4C">Deaktywacja nie mogła zostać zakończona.&#x000D;&#x000A;Uruchom oprogramowanie z prawami administratora aby dokończyć deaktywację.</s>
+<s i="28041" c="533563A7">Aktywacja</s>
+<s i="28042" c="96D1789B">Deaktywacja</s>
+<s i="28043" c="2C74AFB7">Mam numer seryjny</s>
+<s i="28044" c="E3F0C200">Mam plik klucza licencyjnego</s>
+<s i="28045" c="EEAEAFB8">Kup klucz produktu online</s>
+<s i="28050" c="CAD978DA">Nie udało się połączyć z serwerem licencji.&#x000D;&#x000A;Skorzystaj z serwisu aktywacji offline: %s</s>
+<s i="28046" c="883F258D">Użyj wyświetlonego poniżej kodu żądania aby otrzymać kod aktywacyjny.</s>
+<s i="28047" c="896E6614">Użyj swojego numeru seryjnego oraz wyświetlonego poniżej kodu żądania aby otrzymać kod aktywacyjny.</s>
+<s i="28048" c="6B01BB84">Kod żądania</s>
+<s i="28049" c="6D1CACEC">Wprowadź kod aktywacyjny</s>
+<s i="28051" c="A4CA65D5">Numer seryjny</s>
+<s i="28052" c="BFCA55EC">Twoja licencja została aktywowana.</s>
+<s i="28053" c="6582AEDC">Typ licencji</s>
+<s i="28054" c="F815B89C">ID licencji</s>
+<s i="28055" c="2756A122">Chcę deaktywować ten komputer</s>
+<s i="28056" c="922B78F3">Nie udało się połączyć z serwerem licencji.&#x000D;&#x000A;Skorzystaj z serwisu deaktywacji offline: %s&#x000D;&#x000A;Użyj wyświetlonego poniżej ID aktywacji i kodu deaktywacyjnego.&#x000D;&#x000A;Zakończysz w ten sposób proces deaktywacji.</s>
+<s i="28057" c="535259C6">ID aktywacji</s>
+<s i="28058" c="F2BFDB74">Kod deaktywacji</s>
+<s i="28061" c="E50E40CD">Nie można aktywować programu na tym systemie.</s>
+<s i="28067" c="C98E6762">Sprawdź czy komponent WMI działa poprawnie.</s>
+<s i="28068" c="C4612283">Aktywacja nie może zostać zweryfikowana.</s>
+<s i="28062" c="FCDC8D26">Nie można zapisać danych aktywacyjnych.&#x000D;&#x000A;Uruchom oprogramowanie z prawami administratora aby dokończyć aktywację.</s>
+<s i="28063" c="AE126CA3">Data komputera jest niepoprawna.&#x000D;&#x000A;Ustaw zegar systemowy i spróbuj jeszcze raz.</s>
+<s i="28064" c="711D0892">Pliki DICOM z przyszłą datą nie mogą być otworzone w wersji próbnej.</s>
+<s i="28065" c="72B5704F">Ten komputer został deaktywowany.</s>
+<s i="29001" c="898866C8">Osie</s>
+<s i="29002" c="487EC2F4">Autocentrowanie</s>
+<s i="29003" c="76F1C892">Podział ekranu</s>
+<s i="29004" c="FF53414B">Następne ustawienie</s>
+<s i="29012" c="AAF95791">Maksymalizuj panel</s>
+<s i="29005" c="4C183449">%d kolumny</s>
+<s i="29006" c="D9B02F8E">%d rzędy</s>
+<s i="29007" c="E8CF5A3A">Zapisz wszystkie obrazy</s>
+<s i="29008" c="A108392D">Zawsze</s>
+<s i="29009" c="1E73E18F">Tylko ukryte</s>
+<s i="29010" c="DBE48D14">Nigdy</s>
+<s i="29011" c="E2F57C38">Centruj wszystkie</s>
+<s i="29013" c="B8DDAA0D">MPR</s>
+<s i="29014" c="CDD36239">MIP</s>
+<s i="29015" c="28F690FE">MinIP</s>
+<s i="29016" c="24AA146E">Avg</s>
+<s i="29017" c="502904CC">Następny tryb</s>
+<s i="29018" c="ECEE0E0C">Grubość</s>
+</strings>
+</language>
